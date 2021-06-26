@@ -15,4 +15,4 @@ Quinzical is an interactive quiz game that helps users learn about New Zealand h
 |:--:| 
 | *Game Over Screen* | 
 
-Created by Oscar Li and Henry Man
+Created by Oscar Li and Henry An
